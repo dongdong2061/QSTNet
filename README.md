@@ -51,6 +51,7 @@ bash eval_rgbt.sh
 ```
 We refer you to use [LasHeR Toolkit](https://github.com/BUGPLEASEOUT/LasHeR) for LasHeR evaluation, 
 and refer you to use [MPR_MSR_Evaluation](https://sites.google.com/view/ahutracking001/) for RGBT234 evaluation.
+You can also use `eval_lasher.py` to evaluate the results on the LasHeR dataset.
 
 
 ## Acknowledgment
