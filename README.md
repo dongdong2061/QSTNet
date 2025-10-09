@@ -34,7 +34,7 @@ You can also modify paths by these two files:
 ```
 
 ### Training
-Dowmload the pretrained [foundation model](https://pan.baidu.com/s/1JX7xUlr-XutcsDsOeATU1A?pwd=4lvo) (OSTrack) (Baidu Driver: 4lvo)
+Dowmload the pretrained [foundation model]([https://pan.baidu.com/s/1JX7xUlr-XutcsDsOeATU1A?pwd=4lvo](https://www.kaggle.com/datasets/zhaodongding/drgbt603-results/data?select=pretrained)) (OSTrack and DropTrack)
 and put it under ./pretrained/.
 ```
 bash train_qstnet.sh
