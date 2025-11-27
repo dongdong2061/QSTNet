@@ -1,5 +1,7 @@
 # Quality-aware Spatio-temporal Transformer Network for RGBT Tracking
 
+### Congratulations! Our work has been accepted by **TIP**!
+
 ### Our project page is now available at: [https://zhaodongah.github.io/QSTNet](https://zhaodongah.github.io/QSTNet)
 
 ### Installation
